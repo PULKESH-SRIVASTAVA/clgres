@@ -1,18 +1,18 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Pulkesh Srivastava",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
+		"email": "2018kuec2056@iiitkota.ac.in",
+		"phone": "6388594663",
 		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"summary": "I am final year undergraduate student in Electronics & Communication Engineering at IIIT KOTA. I have keen interest in Competitive Coding and spring Framework",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "951 Basera Eldeco Udyan 2 Sector 3 R.B. Road Lucknow",
+			"postalCode": "226025",
+			"city": "Lucknow",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Uttar Pradesh"
 		},
 		"profiles": [{
 				"network": "Twitter",
@@ -22,12 +22,12 @@
 			{
 				"network": "Github",
 				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"url": "https://github.com/PULKESH-SRIVASTAVA"
 			},
 			{
 				"network": "linkedin",
 				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"url": "https://www.linkedin.com/in/pulkesh-srivastava/"
 			},
 			{
 				"network": "Instagram",
@@ -37,12 +37,12 @@
 		]
 	},
 	"work": [{
-		"company": "---",
-		"position": "----",
+		"company": "HouseItt",
+		"position": "Business Development Intern",
 		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
+		"startDate": "2020-09-15",
+		"endDate": "2020-10-15",
+		"summary": "---Tell me something About Org. ---",
 		"highlights": ["Add Highlights", "Your work details"]
 	}],
 	"volunteer": [{
@@ -55,14 +55,14 @@
 		"highlights": []
 	}],
 	"education": [{
-		"institution": "Indian Institute of Information technology,kota",
+		"institution": "Indian Institute of Information technology,Kota",
 		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2018-08-04",
+		"endDate": "2022-05-31",
+		"gpa": "7.69",
 		"courses": [
-			"Computer Science & Engineering"
+			"Electronics & Communication Engineering"
 		]
 	}],
 	"awards": [{
@@ -76,12 +76,12 @@
 		"link": "---github/website link to show your work---"
 	}],
 	"skills": [{
-		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "Java", "C", "Python" , "DSA", "SQL", "MATLAB"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": ["Chess", "Badminton","Cricket"]
 	}],
 	"references": []
 }
